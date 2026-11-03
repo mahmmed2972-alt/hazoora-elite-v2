@@ -21,7 +21,7 @@ android {
 
     signingConfigs {
     create("release") {
-        storeFile = file("hazoora-upload-new.jks")
+        storeFile = file("../hazoora-upload-new.jks")
         storePassword = "Zcxv2972Zcxv2972"
         keyAlias = "hazoora-upload"
         keyPassword = "Zcxv2972Zcxv2972"
